@@ -2,7 +2,7 @@
 
 # Template Replacement Reference
 
-Use this as the source of truth for your Codex agent when filling in the site template placeholders.
+Use this as the source of truth for a Codex agent when filling in the site template placeholders.
 
 ## Hero Section
 - **HERO_TITLE**: `30+ Years of Expert Construction & Remodeling`
