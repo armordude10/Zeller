@@ -3,6 +3,7 @@
 # Template Replacement Reference
 
 Use this as the source of truth for a Codex agent when filling in the site template placeholders.
+Please feel free to add whatever will result in the best page as needed but never about things you are unsure of or made up information, only things that can be safely inferred based on what is here.
 
 ## Hero Section
 - **HERO_TITLE**: `30+ Years of Expert Construction & Remodeling`
